@@ -3,7 +3,7 @@ A GUI enabled, multi-player, network facilitated Tic-Tac-Toe Game in Java using 
 
 ### Terminal Execution:
 	
-	Go to the terminal tab at submitted folder.
+	Go to the terminal tab at downloaded folder.
 	Compile all the java files by the command : javac *.java
 	
 	Open two more terminal tabs.
